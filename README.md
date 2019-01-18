@@ -3,5 +3,5 @@
 >#####**ANDROID 3.3**
 ***
 ####criando projeto
-![Tela inicial do android studio](/home/gleison/Documentos/Documentação android jetpack/IMG/01.png  "Tela inicial do android studio")
+![Tela inicial do android studio](https://raw.githubusercontent.com/gleisonnanet/Android-Jetpack-passo-a-passo/master/IMG/01.png  "Tela inicial do android studio")
 
