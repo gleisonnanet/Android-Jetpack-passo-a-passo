@@ -13,5 +13,5 @@
 ***
 
 >Em choose your project seleciona empty activity e clique em next
-![choose](/https://raw.githubusercontent.com/gleisonnanet/Android-Jetpack-passo-a-passo/master/IMG/02.png  "choose")
+![choose](https://raw.githubusercontent.com/gleisonnanet/Android-Jetpack-passo-a-passo/master/IMG/02.png  "choose")
 
