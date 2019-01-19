@@ -41,6 +41,14 @@
 
 
 
+***
+>>Vamos adicionar um novo Android Resource File
+
+![adicionarNav](https://raw.githubusercontent.com/gleisonnanet/Android-Jetpack-passo-a-passo/master/IMG/05.png  "adicionarNav")
+
+
+
+
 
 
 
