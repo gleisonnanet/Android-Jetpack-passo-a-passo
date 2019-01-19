@@ -48,6 +48,21 @@
 
 
 
+***
+>>Em file name adicione o nome **nav**
+>> Em Resource type selecione  **Navigation** 
+>>Clicke em ok
+
+![adicionarNav](https://raw.githubusercontent.com/gleisonnanet/Android-Jetpack-passo-a-passo/master/IMG/06.png  "adicionarNav")
+
+
+
+>>Na nova tela teremos a seguinte mensagem
+	|Esta operação requer a biblioteca android.arch.navigation: navigation-fragment: +.
+	|Gostaria de adicionar isso agora?
+>>Clicke em ok para adicionar
+![adicionarNav](https://raw.githubusercontent.com/gleisonnanet/Android-Jetpack-passo-a-passo/master/IMG/07.png  "adicionarNav")
+
 
 
 
