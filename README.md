@@ -12,6 +12,26 @@
 
 ***
 
->Em choose your project seleciona empty activity e clique em next
+>Em choose your project selecione empty activity e clique em next
 ![choose](https://raw.githubusercontent.com/gleisonnanet/Android-Jetpack-passo-a-passo/master/IMG/02.png  "choose")
+
+
+
+***
+
+>Em configure your project preencha as informaçoes :
+>> name 
+>>package name
+>> save location
+>>Language
+>>Minimum Api Level
+>> ## Atenção 
+>> marque as caixas 
+>>**This project will support instant apps**
+>>**Use Androidx Artifacts**
+>> clicke em Finish
+
+  
+
+![configApp](https://raw.githubusercontent.com/gleisonnanet/Android-Jetpack-passo-a-passo/master/IMG/03.png  "configApp")
 
